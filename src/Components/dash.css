@@ -1,0 +1,4 @@
+.content01:hover{
+    transform: scale(1.10);
+    transition-duration: 1.5s;
+}
